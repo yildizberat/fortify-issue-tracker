@@ -13,7 +13,7 @@ Fortify Issue Tracker is a Python-based tool that fetches and analyzes security 
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/fortify-issue-tracker.git
+   git clone https://github.com/yildizberat/fortify-issue-tracker.git
    cd fortify-issue-tracker
    ```
 2. Install dependencies:
