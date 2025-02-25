@@ -24,7 +24,7 @@ Fortify Issue Tracker is a Python-based tool that fetches and analyzes security 
 ## 🏃 Usage
 Run the script to fetch security issues and generate reports:
 ```sh
-python report.py
+python reporter.py
 ```
 
 ### Example Output:
