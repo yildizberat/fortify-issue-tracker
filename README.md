@@ -20,7 +20,7 @@ Supports automated batch processing for multiple projects
 
 Clone the repository:
 
-git clone https://github.com/yourusername/fortify-issue-tracker.git
+git clone https://github.com/yildizberat/fortify-issue-tracker.git
 cd fortify-issue-tracker
 
 Install dependencies:
